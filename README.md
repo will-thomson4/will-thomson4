@@ -8,5 +8,5 @@
 
 - :computer: Check out my website to see more about me: https://www.william-thomson.studio/
 
-- :incoming_envelope: Reach out to me on Linkedin for freelance work or collaborations
+- :incoming_envelope: Reach out to me on Linkedin https://www.linkedin.com/in/william-p-thomson/ for freelance work or collaborations
 
