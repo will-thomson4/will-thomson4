@@ -1,6 +1,6 @@
 ### Hi there 👋
-#I'm Will 
-#I work as a back-end engineer at PolyAI.
+# I'm Will 
+# I work as a back-end engineer at PolyAI.
 
 - 🔭 I'm currently working on some interesting machine learning projects, but I like making things pretty, so expect these projects to be wrapped in a full-stack web app with plenty of animations.
 
