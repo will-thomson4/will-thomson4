@@ -6,7 +6,7 @@
 
 - 🌱 I'm looking to learn more about **Rust**, **Go**, **Machine Learning** and **Cybersecurity**.
 
-- :computer: Check out my website to see more about me: https://www.william-thomson.studio/
+- :computer: Check out my [website](https://www.william-thomson.studio/) to see more about me
 
-- :incoming_envelope: Connect with me on Linkedin https://www.linkedin.com/in/william-p-thomson/
+- :incoming_envelope: Connect with me on [Linkedin](https://www.linkedin.com/in/william-p-thomson/)
 
