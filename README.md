@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋
 
-### I work as a software engineer at PolyAI in London.
+### Software engineer at PolyAI in London.
 
 - 🔭 I'm currently working on some interesting machine learning applications, as well as some cool animation projects.
 
