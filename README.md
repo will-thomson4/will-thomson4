@@ -2,9 +2,7 @@
 
 ### Software engineer at PolyAI in London.
 
-- 🔭 I'm currently working on some interesting machine learning applications, as well as some cool animation projects.
-
-- 🌱 I'm looking to learn more about **Go**, **Machine Learning** and **Cybersecurity**.
+- 🌱 Looking to learn more about machine learning, cybersecurity, and animation design.
 
 - :computer: Check out my [website](https://personal-site-black-nu.vercel.app/) to see more about me.
 
