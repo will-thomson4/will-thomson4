@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋
 
-I'm a full stack engineer, based in London, currently working at PolyAI, working on building real-time, generative ai for customer service automation. 
+I'm a full stack engineer, based in London, currently working at Wexler, building AI-powered document extraction and analysis products in the legal-tech space. 
 
 #### Tech Stack:
 Python, Typescript, NodeJs, React, NextJs. But I've also dabbled in C++, Flutter and Swift.
