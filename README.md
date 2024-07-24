@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋
 
-I'm a full stack engineer, based in London, currently working at Wexler, building AI-powered document extraction and analysis products in the legal-tech space. 
+I'm a full stack engineer and computer scientist, based in London, currently a founding engineer at Wexler, building AI-powered document extraction and analysis products in the legal-tech space. 
 
 - 🌱 I'm Looking to learn more about animation design, machine learning visualisations, document extraction and cybersecurity.
 
