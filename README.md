@@ -7,7 +7,7 @@ I'm a full stack engineer and computer scientist, based in London, currently a f
 ---------------------------------------------------------------------------------------
 
 #### Tech Stack:
-Python, Typescript, NodeJs, React, NextJs. But I've also dabbled in C++, Flutter and Swift.
+Python, Typescript, NodeJs, React, NextJs, NestJs. But I've also dabbled in C++, Go and Flutter.
 Looking to pick up some Rust.
 
 ---------------------------------------------------------------------------------------
