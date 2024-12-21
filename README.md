@@ -2,7 +2,7 @@
 
 I'm a full stack engineer and computer scientist, based in London, currently a founding engineer at Wexler, building AI-powered document extraction and AI legal agents. Formerly software engineer at PolyAI, and CompSci at Imperial College London.
 
-- 🌱 I'm Looking to learn more about animation design, machine learning visualisations, agentic AI applications and cybersecurity.
+- 🌱 I'm Looking to learn more about animation design, machine learning visualisations, agentic AI applications, cybersecurity and Cuda programming.
 
 ---------------------------------------------------------------------------------------
 
