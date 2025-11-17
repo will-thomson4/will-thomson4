@@ -1,6 +1,6 @@
 # Hi, I'm Will 👋
 
-I'm a software engineer, based in London, currently a founding engineer at Wexler, building AI-powered document extraction and AI legal agents.
+I'm a software engineer, based in London, currently lead engineer at Wexler, building AI-powered document extraction and AI legal agents.
 
 - 🌱 I'm Looking to learn more about animation design, machine learning visualisations, agentic AI applications, cybersecurity, Cuda and Rust.
 
