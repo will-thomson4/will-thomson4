@@ -11,4 +11,4 @@ Python, Typescript, NodeJs, React, NextJs, NestJs. But I've also dabbled in C++,
 
 #### Links:
 
-- 🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/william-p-thomson/).
+🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/william-p-thomson/).
